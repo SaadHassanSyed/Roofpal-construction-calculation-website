@@ -1,4 +1,4 @@
-Developed in react/node and mongodb this website handle all aspects in construction like costing and order management etc. 70% frontend and backend development by me.
+Developed in react/node and mongodb/graphql this website handle all aspects in construction like costing and order management etc. 70% frontend and backend development by me.
 Url:https://roofpal.uk/
 
 
